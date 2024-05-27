@@ -1,0 +1,141 @@
+﻿@model EC.Website.Models.PagenatedList<EC.Infrastructure.Messaging.Responses.EventViewModel>
+
+@{
+    ViewData["Title"] = "Events";
+}
+
+<!-- Custom CSS for purple theme -->
+<style>
+    .purple-bg {
+        background-color: #6f42c1;
+        color: white;
+    }
+
+    .purple-btn {
+        background-color: #6f42c1;
+        border-color: #6f42c1;
+        color: white;
+    }
+
+        .purple-btn:hover {
+            background-color: #5a34a1;
+            border-color: #5a34a1;
+        }
+
+    .event-title img {
+        max-width: 100px;
+        max-height: 100px;
+        margin-right: 10px;
+    }
+
+    .social-btns a {
+        margin-right: 5px;
+    }
+</style>
+
+<h1 class="my-4 text-center">@ViewData["Title"]</h1>
+
+@if (AuthUser.LoggedUser != null && AuthUser.LoggedUser.IsAdmin)
+{
+    <p class="text-right">
+        <a class="btn purple-btn" asp-action="Create">Create New Event</a>
+    </p>
+}
+
+
+<form asp-action="SearchByTitle" asp-route-firstName="@ViewData["CurrentFilter"]" method="get" class="form-inline mb-3">
+    <div class="form-group">
+        <input type="text" name="title" class="form-control mr-2" placeholder="Search by Title" />
+    </div>
+    <button type="submit" class="btn purple-btn">Search</button>
+</form>
+
+<div class="table-responsive">
+    <table class="table table-striped table-hover">
+        <thead class="purple-bg">
+            <tr>
+                <th>Title</th>
+                <th>Description</th>
+                <th>Start</th>
+                <th>End</th>
+                <th>Price</th>
+                <th>Capacity</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        <div class="event-title d-flex align-items-center">
+                            @Html.DisplayFor(modelItem => item.Title)
+                        </div>
+                    </td>
+                    <td>@Html.DisplayFor(modelItem => item.Description)</td>
+                    <td>@Html.DisplayFor(modelItem => item.Start)</td>
+                    <td>@Html.DisplayFor(modelItem => item.End)</td>
+                    <td>@Html.DisplayFor(modelItem => item.Price)</td>
+                    <td>@Html.DisplayFor(modelItem => item.Capacity)</td>
+                    <td>
+                        @if (AuthUser.LoggedUser != null && AuthUser.LoggedUser.IsAdmin)
+                        {
+                            <a class="btn btn-warning btn-sm" asp-action="Edit" asp-route-id="@item.Id">Edit</a>
+                            <a class="btn btn-danger btn-sm" asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                        }
+                        else
+                        {
+                            <a class="btn purple-btn btn-sm" asp-controller="Tickets" asp-action="Create" asp-route-id="@item.Id">Go</a>
+                        }
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+<nav aria-label="Page navigation">
+    <ul class="pagination justify-content-center">
+        @if (Model.HasPreviousPage)
+        {
+            <li class="page-item">
+                <a class="page-link purple-bg" asp-action="Index" asp-route-pageIndex="@(Model.PageIndex - 1)" aria-label="Previous">
+                    <span aria-hidden="true">&laquo; Previous</span>
+                </a>
+            </li>
+        }
+        else
+        {
+            <li class="page-item disabled">
+                <a class="page-link" aria-label="Previous">
+                    <span aria-hidden="true">&laquo; Previous</span>
+                </a>
+            </li>
+        }
+
+        @if (Model.HasNextPage)
+        {
+            <li class="page-item">
+                <a class="page-link purple-bg" asp-action="Index" asp-route-pageIndex="@(Model.PageIndex + 1)" aria-label="Next">
+                    <span aria-hidden="true">Next &raquo;</span>
+                </a>
+            </li>
+        }
+        else
+        {
+            <li class="page-item disabled">
+                <a class="page-link" aria-label="Next">
+                    <span aria-hidden="true">Next &raquo;</span>
+                </a>
+            </li>
+        }
+       @*  @if (Model.HasPreviousPage)
+        {
+            <a asp-action="SearchByTitle" asp-route-firstName="@ViewData["CurrentFilter"]" asp-route-pageIndex="@(Model.PageIndex - 1)">Previous</a>
+        }
+        @if (Model.HasNextPage)
+        {
+            <a asp-action="SearchByTitle" asp-route-firstName="@ViewData["CurrentFilter"]" asp-route-pageIndex="@(Model.PageIndex + 1)">Next</a>
+        } *@
+    </ul>
+</nav>

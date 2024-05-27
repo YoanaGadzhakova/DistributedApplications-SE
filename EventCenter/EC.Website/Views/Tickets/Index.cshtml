@@ -1,0 +1,101 @@
+﻿@model EC.Website.Models.PagenatedList<EC.Infrastructure.Messaging.Responses.TicketViewModel>
+
+@{
+    ViewData["Title"] = "Tickets";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+@if (AuthUser.LoggedUser != null && AuthUser.LoggedUser.IsAdmin)
+{
+    <p>
+        <a asp-action="Create">Create New</a>
+    </p>
+}
+
+<form asp-action="SearchByEventTitle" asp-route-eventTitle="@ViewData["CurrentFilter"]" method="get" class="form-inline mb-3">
+    <div class="form-group">
+        <input type="text" name="eventTitle" class="form-control mr-2" placeholder="Search by Title" />
+    </div>
+    <button type="submit" class="btn purple-btn">Search</button>
+</form>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Note</th>
+            <th>Type</th>
+            <th>User</th>
+            <th>Event</th>
+            <th>Price</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => item.Note)</td>
+                <td>@Html.DisplayFor(modelItem => item.Type)</td>
+                <td>@Html.DisplayFor(modelItem => item.UserId)</td>
+                <td>@Html.DisplayFor(modelItem => item.EventId)</td>
+                <td>@Html.DisplayFor(modelItem => item.Price)</td>
+
+
+                @if (AuthUser.LoggedUser != null && AuthUser.LoggedUser.IsAdmin)
+                {
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                        <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                    </td>
+                }
+                else
+                {
+                    <td>
+                        <a asp-controller="Tickets" asp-action="Create" asp-route-id="@item.Id">Go</a>
+                    </td>
+                }
+            </tr>
+        }
+    </tbody>
+</table>
+
+<div class="pagination">
+    <nav aria-label="Page navigation">
+        <ul class="pagination justify-content-center">
+            @if (Model.HasPreviousPage)
+            {
+                <li class="page-item">
+                    <a class="page-link" asp-action="Index" asp-route-pageIndex="@(Model.PageIndex - 1)" aria-label="Previous">
+                        <span aria-hidden="true">&laquo; Previous</span>
+                    </a>
+                </li>
+            }
+            else
+            {
+                <li class="page-item disabled">
+                    <a class="page-link" aria-label="Previous">
+                        <span aria-hidden="true">&laquo; Previous</span>
+                    </a>
+                </li>
+            }
+
+            @if (Model.HasNextPage)
+            {
+                <li class="page-item">
+                    <a class="page-link" asp-action="Index" asp-route-pageIndex="@(Model.PageIndex + 1)" aria-label="Next">
+                        <span aria-hidden="true">Next &raquo;</span>
+                    </a>
+                </li>
+            }
+            else
+            {
+                <li class="page-item disabled">
+                    <a class="page-link" aria-label="Next">
+                        <span aria-hidden="true">Next &raquo;</span>
+                    </a>
+                </li>
+            }
+        </ul>
+    </nav>
+</div>

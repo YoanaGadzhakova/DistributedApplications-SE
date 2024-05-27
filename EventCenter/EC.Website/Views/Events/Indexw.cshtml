@@ -1,0 +1,67 @@
+﻿@model EC.Website.Models.PagenatedList<EC.Infrastructure.Messaging.Responses.EventViewModel>
+
+@{
+    ViewData["Title"] = "Event List";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+@if (AuthUser.LoggedUser != null && AuthUser.LoggedUser.IsAdmin)
+{
+    <p>
+        <a asp-action="Create">Create New</a>
+    </p>
+}
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Description</th>
+            <th>Start</th>
+            <th>End</th>
+            <th>Price</th>
+            <th>Capacity</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => item.Title)</td>
+                <td>@Html.DisplayFor(modelItem => item.Description)</td>
+                <td>@Html.DisplayFor(modelItem => item.Start)</td>
+                <td>@Html.DisplayFor(modelItem => item.End)</td>
+                <td>@Html.DisplayFor(modelItem => item.Price)</td>
+                <td>@Html.DisplayFor(modelItem => item.Capacity)</td>
+
+                @if (AuthUser.LoggedUser != null && AuthUser.LoggedUser.IsAdmin)
+                {
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                        <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                    </td>
+                }
+                else
+                {
+                    <td>
+                        <a asp-controller="Tickets" asp-action="Create" asp-route-id="@item.Id">Go</a>
+                    </td>
+                }
+            </tr>
+        }
+    </tbody>
+</table>
+
+<div class="pagination">
+    @if (Model.HasPreviousPage)
+    {
+        <a asp-action="Index" asp-route-pageIndex="@(Model.PageIndex - 1)">Previous</a>
+    }
+
+    @if (Model.HasNextPage)
+    {
+        <a asp-action="Index" asp-route-pageIndex="@(Model.PageIndex + 1)">Next</a>
+    }
+</div>

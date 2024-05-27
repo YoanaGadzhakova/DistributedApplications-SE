@@ -1,0 +1,1814 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{132BE6BE-F759-4DAD-9389-8776FACF4DED}|EC.ApplicationServices\\EC.ApplicationServices.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.applicationservices\\implementations\\ticketsmanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{132BE6BE-F759-4DAD-9389-8776FACF4DED}|EC.ApplicationServices\\EC.ApplicationServices.csproj|solutionrelative:ec.applicationservices\\implementations\\ticketsmanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2819465A-CCAA-4049-B823-D959826F2200}|EC.Website\\EC.Website.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.website\\views\\tickets\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2819465A-CCAA-4049-B823-D959826F2200}|EC.Website\\EC.Website.csproj|solutionrelative:ec.website\\views\\tickets\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2819465A-CCAA-4049-B823-D959826F2200}|EC.Website\\EC.Website.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.website\\views\\events\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2819465A-CCAA-4049-B823-D959826F2200}|EC.Website\\EC.Website.csproj|solutionrelative:ec.website\\views\\events\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2819465A-CCAA-4049-B823-D959826F2200}|EC.Website\\EC.Website.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.website\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2819465A-CCAA-4049-B823-D959826F2200}|EC.Website\\EC.Website.csproj|solutionrelative:ec.website\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EE14F9E-E0B3-4650-845A-43B782DBFEB2}|EC.Data\\EC.Data.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.data\\entities\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EE14F9E-E0B3-4650-845A-43B782DBFEB2}|EC.Data\\EC.Data.csproj|solutionrelative:ec.data\\entities\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2819465A-CCAA-4049-B823-D959826F2200}|EC.Website\\EC.Website.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.website\\views\\events\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2819465A-CCAA-4049-B823-D959826F2200}|EC.Website\\EC.Website.csproj|solutionrelative:ec.website\\views\\events\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3466B89B-A791-4797-944B-0EDD3691D3A4}|EC.Infrastructure\\EC.Infrastructure.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.infrastructure\\messaging\\responses\\ticketviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3466B89B-A791-4797-944B-0EDD3691D3A4}|EC.Infrastructure\\EC.Infrastructure.csproj|solutionrelative:ec.infrastructure\\messaging\\responses\\ticketviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3466B89B-A791-4797-944B-0EDD3691D3A4}|EC.Infrastructure\\EC.Infrastructure.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.infrastructure\\messaging\\requests\\ticketmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3466B89B-A791-4797-944B-0EDD3691D3A4}|EC.Infrastructure\\EC.Infrastructure.csproj|solutionrelative:ec.infrastructure\\messaging\\requests\\ticketmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3466B89B-A791-4797-944B-0EDD3691D3A4}|EC.Infrastructure\\EC.Infrastructure.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.infrastructure\\messaging\\requests\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3466B89B-A791-4797-944B-0EDD3691D3A4}|EC.Infrastructure\\EC.Infrastructure.csproj|solutionrelative:ec.infrastructure\\messaging\\requests\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B5E3895-75B7-4E6F-9954-6BFC19160084}|EC.WebAPI\\EC.WebAPI.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.webapi\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B5E3895-75B7-4E6F-9954-6BFC19160084}|EC.WebAPI\\EC.WebAPI.csproj|solutionrelative:ec.webapi\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3466B89B-A791-4797-944B-0EDD3691D3A4}|EC.Infrastructure\\EC.Infrastructure.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.infrastructure\\messaging\\requests\\ticketsrequests\\createticketrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3466B89B-A791-4797-944B-0EDD3691D3A4}|EC.Infrastructure\\EC.Infrastructure.csproj|solutionrelative:ec.infrastructure\\messaging\\requests\\ticketsrequests\\createticketrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3466B89B-A791-4797-944B-0EDD3691D3A4}|EC.Infrastructure\\EC.Infrastructure.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.infrastructure\\messaging\\requests\\ticketsrequests\\getticketrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3466B89B-A791-4797-944B-0EDD3691D3A4}|EC.Infrastructure\\EC.Infrastructure.csproj|solutionrelative:ec.infrastructure\\messaging\\requests\\ticketsrequests\\getticketrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2819465A-CCAA-4049-B823-D959826F2200}|EC.Website\\EC.Website.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.website\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2819465A-CCAA-4049-B823-D959826F2200}|EC.Website\\EC.Website.csproj|solutionrelative:ec.website\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2819465A-CCAA-4049-B823-D959826F2200}|EC.Website\\EC.Website.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.website\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2819465A-CCAA-4049-B823-D959826F2200}|EC.Website\\EC.Website.csproj|solutionrelative:ec.website\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2819465A-CCAA-4049-B823-D959826F2200}|EC.Website\\EC.Website.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.website\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2819465A-CCAA-4049-B823-D959826F2200}|EC.Website\\EC.Website.csproj|solutionrelative:ec.website\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2819465A-CCAA-4049-B823-D959826F2200}|EC.Website\\EC.Website.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.website\\views\\tickets\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2819465A-CCAA-4049-B823-D959826F2200}|EC.Website\\EC.Website.csproj|solutionrelative:ec.website\\views\\tickets\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132BE6BE-F759-4DAD-9389-8776FACF4DED}|EC.ApplicationServices\\EC.ApplicationServices.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.applicationservices\\implementations\\usersmanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{132BE6BE-F759-4DAD-9389-8776FACF4DED}|EC.ApplicationServices\\EC.ApplicationServices.csproj|solutionrelative:ec.applicationservices\\implementations\\usersmanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132BE6BE-F759-4DAD-9389-8776FACF4DED}|EC.ApplicationServices\\EC.ApplicationServices.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.applicationservices\\interfaces\\iticketsmanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{132BE6BE-F759-4DAD-9389-8776FACF4DED}|EC.ApplicationServices\\EC.ApplicationServices.csproj|solutionrelative:ec.applicationservices\\interfaces\\iticketsmanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2819465A-CCAA-4049-B823-D959826F2200}|EC.Website\\EC.Website.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.website\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2819465A-CCAA-4049-B823-D959826F2200}|EC.Website\\EC.Website.csproj|solutionrelative:ec.website\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132BE6BE-F759-4DAD-9389-8776FACF4DED}|EC.ApplicationServices\\EC.ApplicationServices.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.applicationservices\\implementations\\eventsmanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{132BE6BE-F759-4DAD-9389-8776FACF4DED}|EC.ApplicationServices\\EC.ApplicationServices.csproj|solutionrelative:ec.applicationservices\\implementations\\eventsmanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B5E3895-75B7-4E6F-9954-6BFC19160084}|EC.WebAPI\\EC.WebAPI.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.webapi\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B5E3895-75B7-4E6F-9954-6BFC19160084}|EC.WebAPI\\EC.WebAPI.csproj|solutionrelative:ec.webapi\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132BE6BE-F759-4DAD-9389-8776FACF4DED}|EC.ApplicationServices\\EC.ApplicationServices.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.applicationservices\\interfaces\\ieventsmanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{132BE6BE-F759-4DAD-9389-8776FACF4DED}|EC.ApplicationServices\\EC.ApplicationServices.csproj|solutionrelative:ec.applicationservices\\interfaces\\ieventsmanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132BE6BE-F759-4DAD-9389-8776FACF4DED}|EC.ApplicationServices\\EC.ApplicationServices.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.applicationservices\\interfaces\\iusersmanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{132BE6BE-F759-4DAD-9389-8776FACF4DED}|EC.ApplicationServices\\EC.ApplicationServices.csproj|solutionrelative:ec.applicationservices\\interfaces\\iusersmanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B5E3895-75B7-4E6F-9954-6BFC19160084}|EC.WebAPI\\EC.WebAPI.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.webapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B5E3895-75B7-4E6F-9954-6BFC19160084}|EC.WebAPI\\EC.WebAPI.csproj|solutionrelative:ec.webapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EE14F9E-E0B3-4650-845A-43B782DBFEB2}|EC.Data\\EC.Data.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.data\\entities\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EE14F9E-E0B3-4650-845A-43B782DBFEB2}|EC.Data\\EC.Data.csproj|solutionrelative:ec.data\\entities\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DF7992C-9A6A-49A3-90CF-D4421B53E4C1}|EC.Repositories\\EC.Repositories.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DF7992C-9A6A-49A3-90CF-D4421B53E4C1}|EC.Repositories\\EC.Repositories.csproj|solutionrelative:ec.repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3466B89B-A791-4797-944B-0EDD3691D3A4}|EC.Infrastructure\\EC.Infrastructure.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.infrastructure\\messaging\\requests\\eventmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3466B89B-A791-4797-944B-0EDD3691D3A4}|EC.Infrastructure\\EC.Infrastructure.csproj|solutionrelative:ec.infrastructure\\messaging\\requests\\eventmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EE14F9E-E0B3-4650-845A-43B782DBFEB2}|EC.Data\\EC.Data.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.data\\enums\\tickettype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EE14F9E-E0B3-4650-845A-43B782DBFEB2}|EC.Data\\EC.Data.csproj|solutionrelative:ec.data\\enums\\tickettype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2819465A-CCAA-4049-B823-D959826F2200}|EC.Website\\EC.Website.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.website\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2819465A-CCAA-4049-B823-D959826F2200}|EC.Website\\EC.Website.csproj|solutionrelative:ec.website\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2819465A-CCAA-4049-B823-D959826F2200}|EC.Website\\EC.Website.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.website\\views\\users\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2819465A-CCAA-4049-B823-D959826F2200}|EC.Website\\EC.Website.csproj|solutionrelative:ec.website\\views\\users\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2819465A-CCAA-4049-B823-D959826F2200}|EC.Website\\EC.Website.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.website\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2819465A-CCAA-4049-B823-D959826F2200}|EC.Website\\EC.Website.csproj|solutionrelative:ec.website\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EE14F9E-E0B3-4650-845A-43B782DBFEB2}|EC.Data\\EC.Data.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.data\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EE14F9E-E0B3-4650-845A-43B782DBFEB2}|EC.Data\\EC.Data.csproj|solutionrelative:ec.data\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2819465A-CCAA-4049-B823-D959826F2200}|EC.Website\\EC.Website.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.website\\filters\\userfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2819465A-CCAA-4049-B823-D959826F2200}|EC.Website\\EC.Website.csproj|solutionrelative:ec.website\\filters\\userfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2819465A-CCAA-4049-B823-D959826F2200}|EC.Website\\EC.Website.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.website\\views\\tickets\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2819465A-CCAA-4049-B823-D959826F2200}|EC.Website\\EC.Website.csproj|solutionrelative:ec.website\\views\\tickets\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2819465A-CCAA-4049-B823-D959826F2200}|EC.Website\\EC.Website.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.website\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2819465A-CCAA-4049-B823-D959826F2200}|EC.Website\\EC.Website.csproj|solutionrelative:ec.website\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2819465A-CCAA-4049-B823-D959826F2200}|EC.Website\\EC.Website.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.website\\views\\events\\indexw.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2819465A-CCAA-4049-B823-D959826F2200}|EC.Website\\EC.Website.csproj|solutionrelative:ec.website\\views\\events\\indexw.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2819465A-CCAA-4049-B823-D959826F2200}|EC.Website\\EC.Website.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.website\\models\\pagenatedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2819465A-CCAA-4049-B823-D959826F2200}|EC.Website\\EC.Website.csproj|solutionrelative:ec.website\\models\\pagenatedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3466B89B-A791-4797-944B-0EDD3691D3A4}|EC.Infrastructure\\EC.Infrastructure.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.infrastructure\\messaging\\requests\\eventsrequests\\updateeventrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3466B89B-A791-4797-944B-0EDD3691D3A4}|EC.Infrastructure\\EC.Infrastructure.csproj|solutionrelative:ec.infrastructure\\messaging\\requests\\eventsrequests\\updateeventrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3466B89B-A791-4797-944B-0EDD3691D3A4}|EC.Infrastructure\\EC.Infrastructure.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.infrastructure\\messaging\\responses\\eventviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3466B89B-A791-4797-944B-0EDD3691D3A4}|EC.Infrastructure\\EC.Infrastructure.csproj|solutionrelative:ec.infrastructure\\messaging\\responses\\eventviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2819465A-CCAA-4049-B823-D959826F2200}|EC.Website\\EC.Website.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.website\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2819465A-CCAA-4049-B823-D959826F2200}|EC.Website\\EC.Website.csproj|solutionrelative:ec.website\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B5E3895-75B7-4E6F-9954-6BFC19160084}|EC.WebAPI\\EC.WebAPI.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B5E3895-75B7-4E6F-9954-6BFC19160084}|EC.WebAPI\\EC.WebAPI.csproj|solutionrelative:ec.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EE14F9E-E0B3-4650-845A-43B782DBFEB2}|EC.Data\\EC.Data.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.data\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EE14F9E-E0B3-4650-845A-43B782DBFEB2}|EC.Data\\EC.Data.csproj|solutionrelative:ec.data\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EE14F9E-E0B3-4650-845A-43B782DBFEB2}|EC.Data\\EC.Data.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.data\\contexts\\eventcenterdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EE14F9E-E0B3-4650-845A-43B782DBFEB2}|EC.Data\\EC.Data.csproj|solutionrelative:ec.data\\contexts\\eventcenterdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B5E3895-75B7-4E6F-9954-6BFC19160084}|EC.WebAPI\\EC.WebAPI.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1B5E3895-75B7-4E6F-9954-6BFC19160084}|EC.WebAPI\\EC.WebAPI.csproj|solutionrelative:ec.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2819465A-CCAA-4049-B823-D959826F2200}|EC.Website\\EC.Website.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.website\\filters\\loggeduserfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2819465A-CCAA-4049-B823-D959826F2200}|EC.Website\\EC.Website.csproj|solutionrelative:ec.website\\filters\\loggeduserfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2819465A-CCAA-4049-B823-D959826F2200}|EC.Website\\EC.Website.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.website\\ec.website.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2819465A-CCAA-4049-B823-D959826F2200}|EC.Website\\EC.Website.csproj|solutionrelative:ec.website\\ec.website.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2819465A-CCAA-4049-B823-D959826F2200}|EC.Website\\EC.Website.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.website\\views\\users\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2819465A-CCAA-4049-B823-D959826F2200}|EC.Website\\EC.Website.csproj|solutionrelative:ec.website\\views\\users\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B5E3895-75B7-4E6F-9954-6BFC19160084}|EC.WebAPI\\EC.WebAPI.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.webapi\\model\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B5E3895-75B7-4E6F-9954-6BFC19160084}|EC.WebAPI\\EC.WebAPI.csproj|solutionrelative:ec.webapi\\model\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2819465A-CCAA-4049-B823-D959826F2200}|EC.Website\\EC.Website.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.website\\authuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2819465A-CCAA-4049-B823-D959826F2200}|EC.Website\\EC.Website.csproj|solutionrelative:ec.website\\authuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3466B89B-A791-4797-944B-0EDD3691D3A4}|EC.Infrastructure\\EC.Infrastructure.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.infrastructure\\messaging\\responses\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3466B89B-A791-4797-944B-0EDD3691D3A4}|EC.Infrastructure\\EC.Infrastructure.csproj|solutionrelative:ec.infrastructure\\messaging\\responses\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2819465A-CCAA-4049-B823-D959826F2200}|EC.Website\\EC.Website.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.website\\filters\\adminfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2819465A-CCAA-4049-B823-D959826F2200}|EC.Website\\EC.Website.csproj|solutionrelative:ec.website\\filters\\adminfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B5E3895-75B7-4E6F-9954-6BFC19160084}|EC.WebAPI\\EC.WebAPI.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.webapi\\ec.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1B5E3895-75B7-4E6F-9954-6BFC19160084}|EC.WebAPI\\EC.WebAPI.csproj|solutionrelative:ec.webapi\\ec.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DF7992C-9A6A-49A3-90CF-D4421B53E4C1}|EC.Repositories\\EC.Repositories.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.repositories\\implementations\\eventsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DF7992C-9A6A-49A3-90CF-D4421B53E4C1}|EC.Repositories\\EC.Repositories.csproj|solutionrelative:ec.repositories\\implementations\\eventsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DF7992C-9A6A-49A3-90CF-D4421B53E4C1}|EC.Repositories\\EC.Repositories.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.repositories\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DF7992C-9A6A-49A3-90CF-D4421B53E4C1}|EC.Repositories\\EC.Repositories.csproj|solutionrelative:ec.repositories\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DF7992C-9A6A-49A3-90CF-D4421B53E4C1}|EC.Repositories\\EC.Repositories.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.repositories\\implementations\\usersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DF7992C-9A6A-49A3-90CF-D4421B53E4C1}|EC.Repositories\\EC.Repositories.csproj|solutionrelative:ec.repositories\\implementations\\usersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DF7992C-9A6A-49A3-90CF-D4421B53E4C1}|EC.Repositories\\EC.Repositories.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.repositories\\implementations\\ticketsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DF7992C-9A6A-49A3-90CF-D4421B53E4C1}|EC.Repositories\\EC.Repositories.csproj|solutionrelative:ec.repositories\\implementations\\ticketsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3466B89B-A791-4797-944B-0EDD3691D3A4}|EC.Infrastructure\\EC.Infrastructure.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.infrastructure\\messaging\\requests\\userssrequests\\updateuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3466B89B-A791-4797-944B-0EDD3691D3A4}|EC.Infrastructure\\EC.Infrastructure.csproj|solutionrelative:ec.infrastructure\\messaging\\requests\\userssrequests\\updateuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2819465A-CCAA-4049-B823-D959826F2200}|EC.Website\\EC.Website.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.website\\views\\events\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2819465A-CCAA-4049-B823-D959826F2200}|EC.Website\\EC.Website.csproj|solutionrelative:ec.website\\views\\events\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EE14F9E-E0B3-4650-845A-43B782DBFEB2}|EC.Data\\EC.Data.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.data\\enums\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EE14F9E-E0B3-4650-845A-43B782DBFEB2}|EC.Data\\EC.Data.csproj|solutionrelative:ec.data\\enums\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2819465A-CCAA-4049-B823-D959826F2200}|EC.Website\\EC.Website.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.website\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2819465A-CCAA-4049-B823-D959826F2200}|EC.Website\\EC.Website.csproj|solutionrelative:ec.website\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2819465A-CCAA-4049-B823-D959826F2200}|EC.Website\\EC.Website.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.website\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2819465A-CCAA-4049-B823-D959826F2200}|EC.Website\\EC.Website.csproj|solutionrelative:ec.website\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2819465A-CCAA-4049-B823-D959826F2200}|EC.Website\\EC.Website.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.website\\views\\tickets\\edit2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2819465A-CCAA-4049-B823-D959826F2200}|EC.Website\\EC.Website.csproj|solutionrelative:ec.website\\views\\tickets\\edit2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3466B89B-A791-4797-944B-0EDD3691D3A4}|EC.Infrastructure\\EC.Infrastructure.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.infrastructure\\messaging\\responses\\ticketsresponses\\updateticketresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3466B89B-A791-4797-944B-0EDD3691D3A4}|EC.Infrastructure\\EC.Infrastructure.csproj|solutionrelative:ec.infrastructure\\messaging\\responses\\ticketsresponses\\updateticketresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DF7992C-9A6A-49A3-90CF-D4421B53E4C1}|EC.Repositories\\EC.Repositories.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.repositories\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DF7992C-9A6A-49A3-90CF-D4421B53E4C1}|EC.Repositories\\EC.Repositories.csproj|solutionrelative:ec.repositories\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DF7992C-9A6A-49A3-90CF-D4421B53E4C1}|EC.Repositories\\EC.Repositories.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.repositories\\interfaces\\iusersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DF7992C-9A6A-49A3-90CF-D4421B53E4C1}|EC.Repositories\\EC.Repositories.csproj|solutionrelative:ec.repositories\\interfaces\\iusersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DF7992C-9A6A-49A3-90CF-D4421B53E4C1}|EC.Repositories\\EC.Repositories.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.repositories\\interfaces\\iticketsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DF7992C-9A6A-49A3-90CF-D4421B53E4C1}|EC.Repositories\\EC.Repositories.csproj|solutionrelative:ec.repositories\\interfaces\\iticketsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DF7992C-9A6A-49A3-90CF-D4421B53E4C1}|EC.Repositories\\EC.Repositories.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.repositories\\interfaces\\ieventsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DF7992C-9A6A-49A3-90CF-D4421B53E4C1}|EC.Repositories\\EC.Repositories.csproj|solutionrelative:ec.repositories\\interfaces\\ieventsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3466B89B-A791-4797-944B-0EDD3691D3A4}|EC.Infrastructure\\EC.Infrastructure.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.infrastructure\\messaging\\responses\\usersresponses\\updateuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3466B89B-A791-4797-944B-0EDD3691D3A4}|EC.Infrastructure\\EC.Infrastructure.csproj|solutionrelative:ec.infrastructure\\messaging\\responses\\usersresponses\\updateuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3466B89B-A791-4797-944B-0EDD3691D3A4}|EC.Infrastructure\\EC.Infrastructure.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.infrastructure\\messaging\\responses\\eventsresponses\\updateeventresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3466B89B-A791-4797-944B-0EDD3691D3A4}|EC.Infrastructure\\EC.Infrastructure.csproj|solutionrelative:ec.infrastructure\\messaging\\responses\\eventsresponses\\updateeventresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3466B89B-A791-4797-944B-0EDD3691D3A4}|EC.Infrastructure\\EC.Infrastructure.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.infrastructure\\messaging\\requests\\ticketsrequests\\updateticketrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3466B89B-A791-4797-944B-0EDD3691D3A4}|EC.Infrastructure\\EC.Infrastructure.csproj|solutionrelative:ec.infrastructure\\messaging\\requests\\ticketsrequests\\updateticketrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2819465A-CCAA-4049-B823-D959826F2200}|EC.Website\\EC.Website.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.website\\views\\tickets\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2819465A-CCAA-4049-B823-D959826F2200}|EC.Website\\EC.Website.csproj|solutionrelative:ec.website\\views\\tickets\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3466B89B-A791-4797-944B-0EDD3691D3A4}|EC.Infrastructure\\EC.Infrastructure.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.infrastructure\\messaging\\serviceresponsebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3466B89B-A791-4797-944B-0EDD3691D3A4}|EC.Infrastructure\\EC.Infrastructure.csproj|solutionrelative:ec.infrastructure\\messaging\\serviceresponsebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DF7992C-9A6A-49A3-90CF-D4421B53E4C1}|EC.Repositories\\EC.Repositories.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.repositories\\implementations\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DF7992C-9A6A-49A3-90CF-D4421B53E4C1}|EC.Repositories\\EC.Repositories.csproj|solutionrelative:ec.repositories\\implementations\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2819465A-CCAA-4049-B823-D959826F2200}|EC.Website\\EC.Website.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.website\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2819465A-CCAA-4049-B823-D959826F2200}|EC.Website\\EC.Website.csproj|solutionrelative:ec.website\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132BE6BE-F759-4DAD-9389-8776FACF4DED}|EC.ApplicationServices\\EC.ApplicationServices.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.applicationservices\\ec.applicationservices.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{132BE6BE-F759-4DAD-9389-8776FACF4DED}|EC.ApplicationServices\\EC.ApplicationServices.csproj|solutionrelative:ec.applicationservices\\ec.applicationservices.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3466B89B-A791-4797-944B-0EDD3691D3A4}|EC.Infrastructure\\EC.Infrastructure.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.infrastructure\\ec.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3466B89B-A791-4797-944B-0EDD3691D3A4}|EC.Infrastructure\\EC.Infrastructure.csproj|solutionrelative:ec.infrastructure\\ec.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DF7992C-9A6A-49A3-90CF-D4421B53E4C1}|EC.Repositories\\EC.Repositories.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.repositories\\ec.repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0DF7992C-9A6A-49A3-90CF-D4421B53E4C1}|EC.Repositories\\EC.Repositories.csproj|solutionrelative:ec.repositories\\ec.repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EE14F9E-E0B3-4650-845A-43B782DBFEB2}|EC.Data\\EC.Data.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.data\\ec.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9EE14F9E-E0B3-4650-845A-43B782DBFEB2}|EC.Data\\EC.Data.csproj|solutionrelative:ec.data\\ec.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2819465A-CCAA-4049-B823-D959826F2200}|EC.Website\\EC.Website.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.website\\wwwroot\\lib\\jquery\\dist\\jquery.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2819465A-CCAA-4049-B823-D959826F2200}|EC.Website\\EC.Website.csproj|solutionrelative:ec.website\\wwwroot\\lib\\jquery\\dist\\jquery.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2819465A-CCAA-4049-B823-D959826F2200}|EC.Website\\EC.Website.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.website\\wwwroot\\lib\\jquery\\dist\\jquery.min.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2819465A-CCAA-4049-B823-D959826F2200}|EC.Website\\EC.Website.csproj|solutionrelative:ec.website\\wwwroot\\lib\\jquery\\dist\\jquery.min.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2819465A-CCAA-4049-B823-D959826F2200}|EC.Website\\EC.Website.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.website\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2819465A-CCAA-4049-B823-D959826F2200}|EC.Website\\EC.Website.csproj|solutionrelative:ec.website\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132BE6BE-F759-4DAD-9389-8776FACF4DED}|EC.ApplicationServices\\EC.ApplicationServices.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.applicationservices\\implementations\\basemanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{132BE6BE-F759-4DAD-9389-8776FACF4DED}|EC.ApplicationServices\\EC.ApplicationServices.csproj|solutionrelative:ec.applicationservices\\implementations\\basemanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3466B89B-A791-4797-944B-0EDD3691D3A4}|EC.Infrastructure\\EC.Infrastructure.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.infrastructure\\messaging\\requests\\eventsrequests\\createeventrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3466B89B-A791-4797-944B-0EDD3691D3A4}|EC.Infrastructure\\EC.Infrastructure.csproj|solutionrelative:ec.infrastructure\\messaging\\requests\\eventsrequests\\createeventrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B5E3895-75B7-4E6F-9954-6BFC19160084}|EC.WebAPI\\EC.WebAPI.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1B5E3895-75B7-4E6F-9954-6BFC19160084}|EC.WebAPI\\EC.WebAPI.csproj|solutionrelative:ec.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B5E3895-75B7-4E6F-9954-6BFC19160084}|EC.WebAPI\\EC.WebAPI.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.webapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B5E3895-75B7-4E6F-9954-6BFC19160084}|EC.WebAPI\\EC.WebAPI.csproj|solutionrelative:ec.webapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2819465A-CCAA-4049-B823-D959826F2200}|EC.Website\\EC.Website.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.website\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2819465A-CCAA-4049-B823-D959826F2200}|EC.Website\\EC.Website.csproj|solutionrelative:ec.website\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3466B89B-A791-4797-944B-0EDD3691D3A4}|EC.Infrastructure\\EC.Infrastructure.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.infrastructure\\messaging\\responses\\usersresponses\\createuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3466B89B-A791-4797-944B-0EDD3691D3A4}|EC.Infrastructure\\EC.Infrastructure.csproj|solutionrelative:ec.infrastructure\\messaging\\responses\\usersresponses\\createuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3466B89B-A791-4797-944B-0EDD3691D3A4}|EC.Infrastructure\\EC.Infrastructure.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.infrastructure\\messaging\\requests\\userssrequests\\createuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3466B89B-A791-4797-944B-0EDD3691D3A4}|EC.Infrastructure\\EC.Infrastructure.csproj|solutionrelative:ec.infrastructure\\messaging\\requests\\userssrequests\\createuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B5E3895-75B7-4E6F-9954-6BFC19160084}|EC.WebAPI\\EC.WebAPI.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.webapi\\ec.webapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{1B5E3895-75B7-4E6F-9954-6BFC19160084}|EC.WebAPI\\EC.WebAPI.csproj|solutionrelative:ec.webapi\\ec.webapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2819465A-CCAA-4049-B823-D959826F2200}|EC.Website\\EC.Website.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.website\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2819465A-CCAA-4049-B823-D959826F2200}|EC.Website\\EC.Website.csproj|solutionrelative:ec.website\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2819465A-CCAA-4049-B823-D959826F2200}|EC.Website\\EC.Website.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.website\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2819465A-CCAA-4049-B823-D959826F2200}|EC.Website\\EC.Website.csproj|solutionrelative:ec.website\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2819465A-CCAA-4049-B823-D959826F2200}|EC.Website\\EC.Website.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.website\\wwwroot\\lib\\jquery\\dist\\jquery.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2819465A-CCAA-4049-B823-D959826F2200}|EC.Website\\EC.Website.csproj|solutionrelative:ec.website\\wwwroot\\lib\\jquery\\dist\\jquery.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2819465A-CCAA-4049-B823-D959826F2200}|EC.Website\\EC.Website.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.website\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2819465A-CCAA-4049-B823-D959826F2200}|EC.Website\\EC.Website.csproj|solutionrelative:ec.website\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2819465A-CCAA-4049-B823-D959826F2200}|EC.Website\\EC.Website.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.website\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2819465A-CCAA-4049-B823-D959826F2200}|EC.Website\\EC.Website.csproj|solutionrelative:ec.website\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B5E3895-75B7-4E6F-9954-6BFC19160084}|EC.WebAPI\\EC.WebAPI.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.webapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B5E3895-75B7-4E6F-9954-6BFC19160084}|EC.WebAPI\\EC.WebAPI.csproj|solutionrelative:ec.webapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3466B89B-A791-4797-944B-0EDD3691D3A4}|EC.Infrastructure\\EC.Infrastructure.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.infrastructure\\messaging\\businessstatuscodeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3466B89B-A791-4797-944B-0EDD3691D3A4}|EC.Infrastructure\\EC.Infrastructure.csproj|solutionrelative:ec.infrastructure\\messaging\\businessstatuscodeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3466B89B-A791-4797-944B-0EDD3691D3A4}|EC.Infrastructure\\EC.Infrastructure.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.infrastructure\\messaging\\serviceresponseerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3466B89B-A791-4797-944B-0EDD3691D3A4}|EC.Infrastructure\\EC.Infrastructure.csproj|solutionrelative:ec.infrastructure\\messaging\\serviceresponseerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3466B89B-A791-4797-944B-0EDD3691D3A4}|EC.Infrastructure\\EC.Infrastructure.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.infrastructure\\messaging\\requests\\eventsrequests\\geteventrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3466B89B-A791-4797-944B-0EDD3691D3A4}|EC.Infrastructure\\EC.Infrastructure.csproj|solutionrelative:ec.infrastructure\\messaging\\requests\\eventsrequests\\geteventrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3466B89B-A791-4797-944B-0EDD3691D3A4}|EC.Infrastructure\\EC.Infrastructure.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.infrastructure\\messaging\\requests\\eventsrequests\\deleteeventrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3466B89B-A791-4797-944B-0EDD3691D3A4}|EC.Infrastructure\\EC.Infrastructure.csproj|solutionrelative:ec.infrastructure\\messaging\\requests\\eventsrequests\\deleteeventrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3466B89B-A791-4797-944B-0EDD3691D3A4}|EC.Infrastructure\\EC.Infrastructure.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.infrastructure\\messaging\\servicerequestbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3466B89B-A791-4797-944B-0EDD3691D3A4}|EC.Infrastructure\\EC.Infrastructure.csproj|solutionrelative:ec.infrastructure\\messaging\\servicerequestbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3466B89B-A791-4797-944B-0EDD3691D3A4}|EC.Infrastructure\\EC.Infrastructure.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.infrastructure\\messaging\\responses\\eventsresponses\\createeventresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3466B89B-A791-4797-944B-0EDD3691D3A4}|EC.Infrastructure\\EC.Infrastructure.csproj|solutionrelative:ec.infrastructure\\messaging\\responses\\eventsresponses\\createeventresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3466B89B-A791-4797-944B-0EDD3691D3A4}|EC.Infrastructure\\EC.Infrastructure.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.infrastructure\\messaging\\responses\\eventsresponses\\deleteeventresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3466B89B-A791-4797-944B-0EDD3691D3A4}|EC.Infrastructure\\EC.Infrastructure.csproj|solutionrelative:ec.infrastructure\\messaging\\responses\\eventsresponses\\deleteeventresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3466B89B-A791-4797-944B-0EDD3691D3A4}|EC.Infrastructure\\EC.Infrastructure.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.infrastructure\\messaging\\responses\\eventsresponses\\geteventresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3466B89B-A791-4797-944B-0EDD3691D3A4}|EC.Infrastructure\\EC.Infrastructure.csproj|solutionrelative:ec.infrastructure\\messaging\\responses\\eventsresponses\\geteventresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3466B89B-A791-4797-944B-0EDD3691D3A4}|EC.Infrastructure\\EC.Infrastructure.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.infrastructure\\messaging\\responses\\usersresponses\\deleteuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3466B89B-A791-4797-944B-0EDD3691D3A4}|EC.Infrastructure\\EC.Infrastructure.csproj|solutionrelative:ec.infrastructure\\messaging\\responses\\usersresponses\\deleteuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3466B89B-A791-4797-944B-0EDD3691D3A4}|EC.Infrastructure\\EC.Infrastructure.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.infrastructure\\messaging\\requests\\userssrequests\\deleteuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3466B89B-A791-4797-944B-0EDD3691D3A4}|EC.Infrastructure\\EC.Infrastructure.csproj|solutionrelative:ec.infrastructure\\messaging\\requests\\userssrequests\\deleteuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3466B89B-A791-4797-944B-0EDD3691D3A4}|EC.Infrastructure\\EC.Infrastructure.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.infrastructure\\messaging\\requests\\ticketsrequests\\deleteticketrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3466B89B-A791-4797-944B-0EDD3691D3A4}|EC.Infrastructure\\EC.Infrastructure.csproj|solutionrelative:ec.infrastructure\\messaging\\requests\\ticketsrequests\\deleteticketrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3466B89B-A791-4797-944B-0EDD3691D3A4}|EC.Infrastructure\\EC.Infrastructure.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.infrastructure\\messaging\\responses\\ticketsresponses\\getticketresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3466B89B-A791-4797-944B-0EDD3691D3A4}|EC.Infrastructure\\EC.Infrastructure.csproj|solutionrelative:ec.infrastructure\\messaging\\responses\\ticketsresponses\\getticketresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3466B89B-A791-4797-944B-0EDD3691D3A4}|EC.Infrastructure\\EC.Infrastructure.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.infrastructure\\messaging\\responses\\ticketsresponses\\createticketresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3466B89B-A791-4797-944B-0EDD3691D3A4}|EC.Infrastructure\\EC.Infrastructure.csproj|solutionrelative:ec.infrastructure\\messaging\\responses\\ticketsresponses\\createticketresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3466B89B-A791-4797-944B-0EDD3691D3A4}|EC.Infrastructure\\EC.Infrastructure.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.infrastructure\\messaging\\responses\\ticketsresponses\\deleteticketresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3466B89B-A791-4797-944B-0EDD3691D3A4}|EC.Infrastructure\\EC.Infrastructure.csproj|solutionrelative:ec.infrastructure\\messaging\\responses\\ticketsresponses\\deleteticketresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3466B89B-A791-4797-944B-0EDD3691D3A4}|EC.Infrastructure\\EC.Infrastructure.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.infrastructure\\messaging\\integerservicerequestbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3466B89B-A791-4797-944B-0EDD3691D3A4}|EC.Infrastructure\\EC.Infrastructure.csproj|solutionrelative:ec.infrastructure\\messaging\\integerservicerequestbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B5E3895-75B7-4E6F-9954-6BFC19160084}|EC.WebAPI\\EC.WebAPI.csproj|d:\\_university\\ii \u043A\u0443\u0440\u0441\\da\\eventcenterrepo\\distributedapplications-se\\eventcenter\\ec.webapi\\migrations\\20240527125956_initaleventcenterdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B5E3895-75B7-4E6F-9954-6BFC19160084}|EC.WebAPI\\EC.WebAPI.csproj|solutionrelative:ec.webapi\\migrations\\20240527125956_initaleventcenterdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Infrastructure\\Messaging\\Requests\\UserModel.cs",
+              "RelativeDocumentMoniker": "EC.Infrastructure\\Messaging\\Requests\\UserModel.cs",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Infrastructure\\Messaging\\Requests\\UserModel.cs",
+              "RelativeToolTip": "EC.Infrastructure\\Messaging\\Requests\\UserModel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T19:33:24.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Website\\Views\\Events\\Create.cshtml",
+              "RelativeDocumentMoniker": "EC.Website\\Views\\Events\\Create.cshtml",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Website\\Views\\Events\\Create.cshtml",
+              "RelativeToolTip": "EC.Website\\Views\\Events\\Create.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T19:18:02.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Data\\Entities\\Ticket.cs",
+              "RelativeDocumentMoniker": "EC.Data\\Entities\\Ticket.cs",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Data\\Entities\\Ticket.cs",
+              "RelativeToolTip": "EC.Data\\Entities\\Ticket.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T15:32:02.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Website\\Views\\Tickets\\Index.cshtml",
+              "RelativeDocumentMoniker": "EC.Website\\Views\\Tickets\\Index.cshtml",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Website\\Views\\Tickets\\Index.cshtml",
+              "RelativeToolTip": "EC.Website\\Views\\Tickets\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAtwBgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T22:25:14.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TicketsController.cs",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Website\\Controllers\\TicketsController.cs",
+              "RelativeDocumentMoniker": "EC.Website\\Controllers\\TicketsController.cs",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Website\\Controllers\\TicketsController.cs",
+              "RelativeToolTip": "EC.Website\\Controllers\\TicketsController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAA3wCgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T22:45:24.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Website\\Views\\Events\\Index.cshtml",
+              "RelativeDocumentMoniker": "EC.Website\\Views\\Events\\Index.cshtml",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Website\\Views\\Events\\Index.cshtml",
+              "RelativeToolTip": "EC.Website\\Views\\Events\\Index.cshtml",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAE0AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T19:10:00.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TicketsManagementService.cs",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.ApplicationServices\\Implementations\\TicketsManagementService.cs",
+              "RelativeDocumentMoniker": "EC.ApplicationServices\\Implementations\\TicketsManagementService.cs",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.ApplicationServices\\Implementations\\TicketsManagementService.cs",
+              "RelativeToolTip": "EC.ApplicationServices\\Implementations\\TicketsManagementService.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAwCIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T21:40:49.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TicketViewModel.cs",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Infrastructure\\Messaging\\Responses\\TicketViewModel.cs",
+              "RelativeDocumentMoniker": "EC.Infrastructure\\Messaging\\Responses\\TicketViewModel.cs",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Infrastructure\\Messaging\\Responses\\TicketViewModel.cs",
+              "RelativeToolTip": "EC.Infrastructure\\Messaging\\Responses\\TicketViewModel.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T20:26:23.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TicketModel.cs",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Infrastructure\\Messaging\\Requests\\TicketModel.cs",
+              "RelativeDocumentMoniker": "EC.Infrastructure\\Messaging\\Requests\\TicketModel.cs",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Infrastructure\\Messaging\\Requests\\TicketModel.cs",
+              "RelativeToolTip": "EC.Infrastructure\\Messaging\\Requests\\TicketModel.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAuwBUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T19:33:08.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateTicketRequest.cs",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Infrastructure\\Messaging\\Requests\\TicketsRequests\\CreateTicketRequest.cs",
+              "RelativeDocumentMoniker": "EC.Infrastructure\\Messaging\\Requests\\TicketsRequests\\CreateTicketRequest.cs",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Infrastructure\\Messaging\\Requests\\TicketsRequests\\CreateTicketRequest.cs",
+              "RelativeToolTip": "EC.Infrastructure\\Messaging\\Requests\\TicketsRequests\\CreateTicketRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T20:02:52.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GetTicketRequest.cs",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Infrastructure\\Messaging\\Requests\\TicketsRequests\\GetTicketRequest.cs",
+              "RelativeDocumentMoniker": "EC.Infrastructure\\Messaging\\Requests\\TicketsRequests\\GetTicketRequest.cs",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Infrastructure\\Messaging\\Requests\\TicketsRequests\\GetTicketRequest.cs",
+              "RelativeToolTip": "EC.Infrastructure\\Messaging\\Requests\\TicketsRequests\\GetTicketRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T20:02:57.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TicketsController.cs",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.WebAPI\\Controllers\\TicketsController.cs",
+              "RelativeDocumentMoniker": "EC.WebAPI\\Controllers\\TicketsController.cs",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.WebAPI\\Controllers\\TicketsController.cs",
+              "RelativeToolTip": "EC.WebAPI\\Controllers\\TicketsController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAAB4AAABzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T19:13:06.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Website\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "EC.Website\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Website\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "EC.Website\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAmwBQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T19:51:46.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EventsController.cs",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Website\\Controllers\\EventsController.cs",
+              "RelativeDocumentMoniker": "EC.Website\\Controllers\\EventsController.cs",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Website\\Controllers\\EventsController.cs",
+              "RelativeToolTip": "EC.Website\\Controllers\\EventsController.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T19:39:01.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Website\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "EC.Website\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Website\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "EC.Website\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T09:31:28.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Website\\Views\\Tickets\\Edit.cshtml",
+              "RelativeDocumentMoniker": "EC.Website\\Views\\Tickets\\Edit.cshtml",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Website\\Views\\Tickets\\Edit.cshtml",
+              "RelativeToolTip": "EC.Website\\Views\\Tickets\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T07:42:23.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UsersManagementService.cs",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.ApplicationServices\\Implementations\\UsersManagementService.cs",
+              "RelativeDocumentMoniker": "EC.ApplicationServices\\Implementations\\UsersManagementService.cs",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.ApplicationServices\\Implementations\\UsersManagementService.cs",
+              "RelativeToolTip": "EC.ApplicationServices\\Implementations\\UsersManagementService.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAkwD0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T19:18:39.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ITicketsManagementService.cs",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.ApplicationServices\\Interfaces\\ITicketsManagementService.cs",
+              "RelativeDocumentMoniker": "EC.ApplicationServices\\Interfaces\\ITicketsManagementService.cs",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.ApplicationServices\\Interfaces\\ITicketsManagementService.cs",
+              "RelativeToolTip": "EC.ApplicationServices\\Interfaces\\ITicketsManagementService.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAuwBMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T16:18:10.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Website\\Views\\Users\\Index.cshtml",
+              "RelativeDocumentMoniker": "EC.Website\\Views\\Users\\Index.cshtml",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Website\\Views\\Users\\Index.cshtml",
+              "RelativeToolTip": "EC.Website\\Views\\Users\\Index.cshtml",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAABgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T23:47:20.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EventsController.cs",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.WebAPI\\Controllers\\EventsController.cs",
+              "RelativeDocumentMoniker": "EC.WebAPI\\Controllers\\EventsController.cs",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.WebAPI\\Controllers\\EventsController.cs",
+              "RelativeToolTip": "EC.WebAPI\\Controllers\\EventsController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAQwCQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T19:05:44.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EventsManagementService.cs",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.ApplicationServices\\Implementations\\EventsManagementService.cs",
+              "RelativeDocumentMoniker": "EC.ApplicationServices\\Implementations\\EventsManagementService.cs",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.ApplicationServices\\Implementations\\EventsManagementService.cs",
+              "RelativeToolTip": "EC.ApplicationServices\\Implementations\\EventsManagementService.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAAAGoAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T21:40:38.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IEventsManagementService.cs",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.ApplicationServices\\Interfaces\\IEventsManagementService.cs",
+              "RelativeDocumentMoniker": "EC.ApplicationServices\\Interfaces\\IEventsManagementService.cs",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.ApplicationServices\\Interfaces\\IEventsManagementService.cs",
+              "RelativeToolTip": "EC.ApplicationServices\\Interfaces\\IEventsManagementService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAwwBEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T16:17:37.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IUsersManagementService.cs",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.ApplicationServices\\Interfaces\\IUsersManagementService.cs",
+              "RelativeDocumentMoniker": "EC.ApplicationServices\\Interfaces\\IUsersManagementService.cs",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.ApplicationServices\\Interfaces\\IUsersManagementService.cs",
+              "RelativeToolTip": "EC.ApplicationServices\\Interfaces\\IUsersManagementService.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAcwBMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T16:16:24.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.WebAPI\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "EC.WebAPI\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.WebAPI\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "EC.WebAPI\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwCMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T19:24:19.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Repositories\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "EC.Repositories\\Interfaces\\IRepository.cs",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Repositories\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "EC.Repositories\\Interfaces\\IRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T21:18:09.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Event.cs",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Data\\Entities\\Event.cs",
+              "RelativeDocumentMoniker": "EC.Data\\Entities\\Event.cs",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Data\\Entities\\Event.cs",
+              "RelativeToolTip": "EC.Data\\Entities\\Event.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T15:31:28.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EventModel.cs",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Infrastructure\\Messaging\\Requests\\EventModel.cs",
+              "RelativeDocumentMoniker": "EC.Infrastructure\\Messaging\\Requests\\EventModel.cs",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Infrastructure\\Messaging\\Requests\\EventModel.cs",
+              "RelativeToolTip": "EC.Infrastructure\\Messaging\\Requests\\EventModel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwBEAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T19:32:51.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "TicketType.cs",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Data\\Enums\\TicketType.cs",
+              "RelativeDocumentMoniker": "EC.Data\\Enums\\TicketType.cs",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Data\\Enums\\TicketType.cs",
+              "RelativeToolTip": "EC.Data\\Enums\\TicketType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T15:50:07.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Website\\Views\\Users\\Create.cshtml",
+              "RelativeDocumentMoniker": "EC.Website\\Views\\Users\\Create.cshtml",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Website\\Views\\Users\\Create.cshtml",
+              "RelativeToolTip": "EC.Website\\Views\\Users\\Create.cshtml",
+              "ViewState": "AQIAACgAAAAAAAAAAAAAAAwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T10:25:56.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Website\\Views\\Users\\Edit.cshtml",
+              "RelativeDocumentMoniker": "EC.Website\\Views\\Users\\Edit.cshtml",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Website\\Views\\Users\\Edit.cshtml",
+              "RelativeToolTip": "EC.Website\\Views\\Users\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T22:28:13.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Website\\Views\\Users\\Register.cshtml",
+              "RelativeDocumentMoniker": "EC.Website\\Views\\Users\\Register.cshtml",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Website\\Views\\Users\\Register.cshtml",
+              "RelativeToolTip": "EC.Website\\Views\\Users\\Register.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T09:31:16.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UserFilter.cs",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Website\\Filters\\UserFilter.cs",
+              "RelativeDocumentMoniker": "EC.Website\\Filters\\UserFilter.cs",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Website\\Filters\\UserFilter.cs",
+              "RelativeToolTip": "EC.Website\\Filters\\UserFilter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T09:28:59.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Data\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "EC.Data\\Entities\\User.cs",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Data\\Entities\\User.cs",
+              "RelativeToolTip": "EC.Data\\Entities\\User.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T15:30:58.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Website\\Views\\Tickets\\Create.cshtml",
+              "RelativeDocumentMoniker": "EC.Website\\Views\\Tickets\\Create.cshtml",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Website\\Views\\Tickets\\Create.cshtml",
+              "RelativeToolTip": "EC.Website\\Views\\Tickets\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T22:16:01.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Website\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EC.Website\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Website\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EC.Website\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAACMAAAB3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T07:42:51.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Indexw.cshtml",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Website\\Views\\Events\\Indexw.cshtml",
+              "RelativeDocumentMoniker": "EC.Website\\Views\\Events\\Indexw.cshtml",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Website\\Views\\Events\\Indexw.cshtml",
+              "RelativeToolTip": "EC.Website\\Views\\Events\\Indexw.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T14:05:38.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "PagenatedList.cs",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Website\\Models\\PagenatedList.cs",
+              "RelativeDocumentMoniker": "EC.Website\\Models\\PagenatedList.cs",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Website\\Models\\PagenatedList.cs",
+              "RelativeToolTip": "EC.Website\\Models\\PagenatedList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T13:54:02.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "EventViewModel.cs",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Infrastructure\\Messaging\\Responses\\EventViewModel.cs",
+              "RelativeDocumentMoniker": "EC.Infrastructure\\Messaging\\Responses\\EventViewModel.cs",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Infrastructure\\Messaging\\Responses\\EventViewModel.cs",
+              "RelativeToolTip": "EC.Infrastructure\\Messaging\\Responses\\EventViewModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T20:25:47.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 111,
+              "Title": "20240527125956_InitalEventCenterDb.cs",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.WebAPI\\Migrations\\20240527125956_InitalEventCenterDb.cs",
+              "RelativeDocumentMoniker": "EC.WebAPI\\Migrations\\20240527125956_InitalEventCenterDb.cs",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.WebAPI\\Migrations\\20240527125956_InitalEventCenterDb.cs",
+              "RelativeToolTip": "EC.WebAPI\\Migrations\\20240527125956_InitalEventCenterDb.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAQwF4AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T12:59:56.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "UpdateEventRequest.cs",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Infrastructure\\Messaging\\Requests\\EventsRequests\\UpdateEventRequest.cs",
+              "RelativeDocumentMoniker": "EC.Infrastructure\\Messaging\\Requests\\EventsRequests\\UpdateEventRequest.cs",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Infrastructure\\Messaging\\Requests\\EventsRequests\\UpdateEventRequest.cs",
+              "RelativeToolTip": "EC.Infrastructure\\Messaging\\Requests\\EventsRequests\\UpdateEventRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T19:05:43.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Website\\Program.cs",
+              "RelativeDocumentMoniker": "EC.Website\\Program.cs",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Website\\Program.cs",
+              "RelativeToolTip": "EC.Website\\Program.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAAAFEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T10:43:52.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "EC.WebAPI\\Program.cs",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.WebAPI\\Program.cs",
+              "RelativeToolTip": "EC.WebAPI\\Program.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAmwFIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T09:33:13.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Data\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "EC.Data\\Entities\\BaseEntity.cs",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Data\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "EC.Data\\Entities\\BaseEntity.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T15:26:09.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "EventCenterDbContext.cs",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Data\\Contexts\\EventCenterDbContext.cs",
+              "RelativeDocumentMoniker": "EC.Data\\Contexts\\EventCenterDbContext.cs",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Data\\Contexts\\EventCenterDbContext.cs",
+              "RelativeToolTip": "EC.Data\\Contexts\\EventCenterDbContext.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T15:55:31.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "EC.WebAPI\\appsettings.json",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.WebAPI\\appsettings.json",
+              "RelativeToolTip": "EC.WebAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-24T09:53:43.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "LoggedUserFilter.cs",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Website\\Filters\\LoggedUserFilter.cs",
+              "RelativeDocumentMoniker": "EC.Website\\Filters\\LoggedUserFilter.cs",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Website\\Filters\\LoggedUserFilter.cs",
+              "RelativeToolTip": "EC.Website\\Filters\\LoggedUserFilter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T09:28:46.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "UserViewModel.cs",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Infrastructure\\Messaging\\Responses\\UserViewModel.cs",
+              "RelativeDocumentMoniker": "EC.Infrastructure\\Messaging\\Responses\\UserViewModel.cs",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Infrastructure\\Messaging\\Responses\\UserViewModel.cs",
+              "RelativeToolTip": "EC.Infrastructure\\Messaging\\Responses\\UserViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T19:17:32.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "AdminFilter.cs",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Website\\Filters\\AdminFilter.cs",
+              "RelativeDocumentMoniker": "EC.Website\\Filters\\AdminFilter.cs",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Website\\Filters\\AdminFilter.cs",
+              "RelativeToolTip": "EC.Website\\Filters\\AdminFilter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T09:28:28.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "EC.Website.csproj",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Website\\EC.Website.csproj",
+              "RelativeDocumentMoniker": "EC.Website\\EC.Website.csproj",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Website\\EC.Website.csproj",
+              "RelativeToolTip": "EC.Website\\EC.Website.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-24T09:32:17.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "UserViewModel.cs",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.WebAPI\\Model\\UserViewModel.cs",
+              "RelativeDocumentMoniker": "EC.WebAPI\\Model\\UserViewModel.cs",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.WebAPI\\Model\\UserViewModel.cs",
+              "RelativeToolTip": "EC.WebAPI\\Model\\UserViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T19:04:01.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "AuthUser.cs",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Website\\AuthUser.cs",
+              "RelativeDocumentMoniker": "EC.Website\\AuthUser.cs",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Website\\AuthUser.cs",
+              "RelativeToolTip": "EC.Website\\AuthUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T09:26:36.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Website\\Views\\Users\\Login.cshtml",
+              "RelativeDocumentMoniker": "EC.Website\\Views\\Users\\Login.cshtml",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Website\\Views\\Users\\Login.cshtml",
+              "RelativeToolTip": "EC.Website\\Views\\Users\\Login.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAIBJwB0AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T09:31:01.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "EC.WebAPI.csproj",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.WebAPI\\EC.WebAPI.csproj",
+              "RelativeDocumentMoniker": "EC.WebAPI\\EC.WebAPI.csproj",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.WebAPI\\EC.WebAPI.csproj",
+              "RelativeToolTip": "EC.WebAPI\\EC.WebAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-24T08:58:21.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "EventsRepository.cs",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Repositories\\Implementations\\EventsRepository.cs",
+              "RelativeDocumentMoniker": "EC.Repositories\\Implementations\\EventsRepository.cs",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Repositories\\Implementations\\EventsRepository.cs",
+              "RelativeToolTip": "EC.Repositories\\Implementations\\EventsRepository.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAmwAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T21:31:26.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Repositories\\Implementations\\Repository.cs",
+              "RelativeDocumentMoniker": "EC.Repositories\\Implementations\\Repository.cs",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Repositories\\Implementations\\Repository.cs",
+              "RelativeToolTip": "EC.Repositories\\Implementations\\Repository.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAswD4AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T21:26:54.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "UsersRepository.cs",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Repositories\\Implementations\\UsersRepository.cs",
+              "RelativeDocumentMoniker": "EC.Repositories\\Implementations\\UsersRepository.cs",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Repositories\\Implementations\\UsersRepository.cs",
+              "RelativeToolTip": "EC.Repositories\\Implementations\\UsersRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAmwBAAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T21:34:45.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "TicketsRepository.cs",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Repositories\\Implementations\\TicketsRepository.cs",
+              "RelativeDocumentMoniker": "EC.Repositories\\Implementations\\TicketsRepository.cs",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Repositories\\Implementations\\TicketsRepository.cs",
+              "RelativeToolTip": "EC.Repositories\\Implementations\\TicketsRepository.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAmwA8AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T21:33:28.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "UpdateUserRequest.cs",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Infrastructure\\Messaging\\Requests\\UserssRequests\\UpdateUserRequest.cs",
+              "RelativeDocumentMoniker": "EC.Infrastructure\\Messaging\\Requests\\UserssRequests\\UpdateUserRequest.cs",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Infrastructure\\Messaging\\Requests\\UserssRequests\\UpdateUserRequest.cs",
+              "RelativeToolTip": "EC.Infrastructure\\Messaging\\Requests\\UserssRequests\\UpdateUserRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T19:06:05.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Website\\Views\\Events\\Edit.cshtml",
+              "RelativeDocumentMoniker": "EC.Website\\Views\\Events\\Edit.cshtml",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Website\\Views\\Events\\Edit.cshtml",
+              "RelativeToolTip": "EC.Website\\Views\\Events\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T22:20:39.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Data\\Enums\\Gender.cs",
+              "RelativeDocumentMoniker": "EC.Data\\Enums\\Gender.cs",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Data\\Enums\\Gender.cs",
+              "RelativeToolTip": "EC.Data\\Enums\\Gender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T15:41:56.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Edit2.cshtml",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Website\\Views\\Tickets\\Edit2.cshtml",
+              "RelativeDocumentMoniker": "EC.Website\\Views\\Tickets\\Edit2.cshtml",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Website\\Views\\Tickets\\Edit2.cshtml",
+              "RelativeToolTip": "EC.Website\\Views\\Tickets\\Edit2.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAqwDoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T22:15:41.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Website\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "EC.Website\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Website\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "EC.Website\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T07:42:44.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Website\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "EC.Website\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Website\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "EC.Website\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T07:42:49.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "UpdateTicketResponse.cs",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Infrastructure\\Messaging\\Responses\\TicketsResponses\\UpdateTicketResponse.cs",
+              "RelativeDocumentMoniker": "EC.Infrastructure\\Messaging\\Responses\\TicketsResponses\\UpdateTicketResponse.cs",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Infrastructure\\Messaging\\Responses\\TicketsResponses\\UpdateTicketResponse.cs",
+              "RelativeToolTip": "EC.Infrastructure\\Messaging\\Responses\\TicketsResponses\\UpdateTicketResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T19:06:33.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Repositories\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "EC.Repositories\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Repositories\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "EC.Repositories\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBZwBAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T21:23:10.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "IUsersRepository.cs",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Repositories\\Interfaces\\IUsersRepository.cs",
+              "RelativeDocumentMoniker": "EC.Repositories\\Interfaces\\IUsersRepository.cs",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Repositories\\Interfaces\\IUsersRepository.cs",
+              "RelativeToolTip": "EC.Repositories\\Interfaces\\IUsersRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T21:20:57.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "ITicketsRepository.cs",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Repositories\\Interfaces\\ITicketsRepository.cs",
+              "RelativeDocumentMoniker": "EC.Repositories\\Interfaces\\ITicketsRepository.cs",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Repositories\\Interfaces\\ITicketsRepository.cs",
+              "RelativeToolTip": "EC.Repositories\\Interfaces\\ITicketsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T21:21:06.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "IEventsRepository.cs",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Repositories\\Interfaces\\IEventsRepository.cs",
+              "RelativeDocumentMoniker": "EC.Repositories\\Interfaces\\IEventsRepository.cs",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Repositories\\Interfaces\\IEventsRepository.cs",
+              "RelativeToolTip": "EC.Repositories\\Interfaces\\IEventsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T21:20:47.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "UpdateUserResponse.cs",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Infrastructure\\Messaging\\Responses\\UsersResponses\\UpdateUserResponse.cs",
+              "RelativeDocumentMoniker": "EC.Infrastructure\\Messaging\\Responses\\UsersResponses\\UpdateUserResponse.cs",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Infrastructure\\Messaging\\Responses\\UsersResponses\\UpdateUserResponse.cs",
+              "RelativeToolTip": "EC.Infrastructure\\Messaging\\Responses\\UsersResponses\\UpdateUserResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T19:06:43.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "UpdateEventResponse.cs",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Infrastructure\\Messaging\\Responses\\EventsResponses\\UpdateEventResponse.cs",
+              "RelativeDocumentMoniker": "EC.Infrastructure\\Messaging\\Responses\\EventsResponses\\UpdateEventResponse.cs",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Infrastructure\\Messaging\\Responses\\EventsResponses\\UpdateEventResponse.cs",
+              "RelativeToolTip": "EC.Infrastructure\\Messaging\\Responses\\EventsResponses\\UpdateEventResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T19:06:19.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "UpdateTicketRequest.cs",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Infrastructure\\Messaging\\Requests\\TicketsRequests\\UpdateTicketRequest.cs",
+              "RelativeDocumentMoniker": "EC.Infrastructure\\Messaging\\Requests\\TicketsRequests\\UpdateTicketRequest.cs",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Infrastructure\\Messaging\\Requests\\TicketsRequests\\UpdateTicketRequest.cs",
+              "RelativeToolTip": "EC.Infrastructure\\Messaging\\Requests\\TicketsRequests\\UpdateTicketRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T19:05:55.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Website\\Views\\Tickets\\Details.cshtml",
+              "RelativeDocumentMoniker": "EC.Website\\Views\\Tickets\\Details.cshtml",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Website\\Views\\Tickets\\Details.cshtml",
+              "RelativeToolTip": "EC.Website\\Views\\Tickets\\Details.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAACBjwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T23:06:26.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "ServiceResponseBase.cs",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Infrastructure\\Messaging\\ServiceResponseBase.cs",
+              "RelativeDocumentMoniker": "EC.Infrastructure\\Messaging\\ServiceResponseBase.cs",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Infrastructure\\Messaging\\ServiceResponseBase.cs",
+              "RelativeToolTip": "EC.Infrastructure\\Messaging\\ServiceResponseBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T19:33:40.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Repositories\\Implementations\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "EC.Repositories\\Implementations\\UnitOfWork.cs",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Repositories\\Implementations\\UnitOfWork.cs",
+              "RelativeToolTip": "EC.Repositories\\Implementations\\UnitOfWork.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowCYAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T21:29:22.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "EC.Infrastructure.csproj",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Infrastructure\\EC.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "EC.Infrastructure\\EC.Infrastructure.csproj",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Infrastructure\\EC.Infrastructure.csproj",
+              "RelativeToolTip": "EC.Infrastructure\\EC.Infrastructure.csproj",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBZwAkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-18T19:32:35.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "additional-methods.js",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Website\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "RelativeDocumentMoniker": "EC.Website\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Website\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "RelativeToolTip": "EC.Website\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "ViewState": "AQIAAFgFAAAAAAAAACBjwHQFAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-26T21:22:27.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "EC.Repositories.csproj",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Repositories\\EC.Repositories.csproj",
+              "RelativeDocumentMoniker": "EC.Repositories\\EC.Repositories.csproj",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Repositories\\EC.Repositories.csproj",
+              "RelativeToolTip": "EC.Repositories\\EC.Repositories.csproj",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBZwAkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-18T21:17:14.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "EC.Data.csproj",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Data\\EC.Data.csproj",
+              "RelativeDocumentMoniker": "EC.Data\\EC.Data.csproj",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Data\\EC.Data.csproj",
+              "RelativeToolTip": "EC.Data\\EC.Data.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAxwAkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-10T15:56:16.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "jquery.js",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Website\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "RelativeDocumentMoniker": "EC.Website\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Website\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "RelativeToolTip": "EC.Website\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "ViewState": "AQIAADgoAAAAAAAAAAAiwEQoAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-24T19:25:34.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "jquery.min.map",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Website\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+              "RelativeDocumentMoniker": "EC.Website\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Website\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+              "RelativeToolTip": "EC.Website\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAQwAAAAABcKQAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-24T19:25:52.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "EC.ApplicationServices.csproj",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.ApplicationServices\\EC.ApplicationServices.csproj",
+              "RelativeDocumentMoniker": "EC.ApplicationServices\\EC.ApplicationServices.csproj",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.ApplicationServices\\EC.ApplicationServices.csproj",
+              "RelativeToolTip": "EC.ApplicationServices\\EC.ApplicationServices.csproj",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBZwAoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-10T16:01:55.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "jquery.validate.unobtrusive.js",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Website\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+              "RelativeDocumentMoniker": "EC.Website\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Website\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+              "RelativeToolTip": "EC.Website\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+              "ViewState": "AQIAAOIAAAAAAAAAAABlwOsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-24T19:26:03.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "BaseManagementService.cs",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.ApplicationServices\\Implementations\\BaseManagementService.cs",
+              "RelativeDocumentMoniker": "EC.ApplicationServices\\Implementations\\BaseManagementService.cs",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.ApplicationServices\\Implementations\\BaseManagementService.cs",
+              "RelativeToolTip": "EC.ApplicationServices\\Implementations\\BaseManagementService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T21:43:17.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "CreateEventRequest.cs",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Infrastructure\\Messaging\\Requests\\EventsRequests\\CreateEventRequest.cs",
+              "RelativeDocumentMoniker": "EC.Infrastructure\\Messaging\\Requests\\EventsRequests\\CreateEventRequest.cs",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Infrastructure\\Messaging\\Requests\\EventsRequests\\CreateEventRequest.cs",
+              "RelativeToolTip": "EC.Infrastructure\\Messaging\\Requests\\EventsRequests\\CreateEventRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T20:03:01.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.WebAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "EC.WebAPI\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.WebAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "EC.WebAPI\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAxwAEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-24T16:52:28.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.WebAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "EC.WebAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.WebAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "EC.WebAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T08:50:53.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "SQLQuery1.sql",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\SQLQuery1.sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\SQLQuery1.sql",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\SQLQuery1.sql",
+              "RelativeToolTip": "..\\..\\..\\SQLQuery1.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-25T21:46:48.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Website\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "EC.Website\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Website\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "EC.Website\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T15:37:35.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "CreateUserResponse.cs",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Infrastructure\\Messaging\\Responses\\UsersResponses\\CreateUserResponse.cs",
+              "RelativeDocumentMoniker": "EC.Infrastructure\\Messaging\\Responses\\UsersResponses\\CreateUserResponse.cs",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Infrastructure\\Messaging\\Responses\\UsersResponses\\CreateUserResponse.cs",
+              "RelativeToolTip": "EC.Infrastructure\\Messaging\\Responses\\UsersResponses\\CreateUserResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T20:30:22.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "CreateUserRequest.cs",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Infrastructure\\Messaging\\Requests\\UserssRequests\\CreateUserRequest.cs",
+              "RelativeDocumentMoniker": "EC.Infrastructure\\Messaging\\Requests\\UserssRequests\\CreateUserRequest.cs",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Infrastructure\\Messaging\\Requests\\UserssRequests\\CreateUserRequest.cs",
+              "RelativeToolTip": "EC.Infrastructure\\Messaging\\Requests\\UserssRequests\\CreateUserRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T19:56:28.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "EC.WebAPI",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.WebAPI\\EC.WebAPI.csproj",
+              "RelativeDocumentMoniker": "EC.WebAPI\\EC.WebAPI.csproj",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.WebAPI\\EC.WebAPI.csproj",
+              "RelativeToolTip": "EC.WebAPI\\EC.WebAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-24T20:10:51.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "jquery.validate.unobtrusive.min.js",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Website\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+              "RelativeDocumentMoniker": "EC.Website\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Website\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+              "RelativeToolTip": "EC.Website\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAMBdwAcAAABuBAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-24T19:26:06.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "jquery.validate.js",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Website\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+              "RelativeDocumentMoniker": "EC.Website\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Website\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+              "RelativeToolTip": "EC.Website\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+              "ViewState": "AQIAAGMGAAAAAAAAACBjwGwGAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-24T19:26:01.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "jquery.min.js",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Website\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+              "RelativeDocumentMoniker": "EC.Website\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Website\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+              "RelativeToolTip": "EC.Website\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAMwAEAAAA6WgEA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-24T19:25:48.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Website\\appsettings.json",
+              "RelativeDocumentMoniker": "EC.Website\\appsettings.json",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Website\\appsettings.json",
+              "RelativeToolTip": "EC.Website\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-24T19:22:39.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Website\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "EC.Website\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Website\\Properties\\launchSettings.json",
+              "RelativeToolTip": "EC.Website\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-24T19:22:35.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.WebAPI\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "EC.WebAPI\\WeatherForecast.cs",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.WebAPI\\WeatherForecast.cs",
+              "RelativeToolTip": "EC.WebAPI\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T16:26:16.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "ServiceResponseError.cs",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Infrastructure\\Messaging\\ServiceResponseError.cs",
+              "RelativeDocumentMoniker": "EC.Infrastructure\\Messaging\\ServiceResponseError.cs",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Infrastructure\\Messaging\\ServiceResponseError.cs",
+              "RelativeToolTip": "EC.Infrastructure\\Messaging\\ServiceResponseError.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T09:04:56.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "BusinessStatusCodeEnum.cs",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Infrastructure\\Messaging\\BusinessStatusCodeEnum.cs",
+              "RelativeDocumentMoniker": "EC.Infrastructure\\Messaging\\BusinessStatusCodeEnum.cs",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Infrastructure\\Messaging\\BusinessStatusCodeEnum.cs",
+              "RelativeToolTip": "EC.Infrastructure\\Messaging\\BusinessStatusCodeEnum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T19:32:40.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "GetEventRequest.cs",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Infrastructure\\Messaging\\Requests\\EventsRequests\\GetEventRequest.cs",
+              "RelativeDocumentMoniker": "EC.Infrastructure\\Messaging\\Requests\\EventsRequests\\GetEventRequest.cs",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Infrastructure\\Messaging\\Requests\\EventsRequests\\GetEventRequest.cs",
+              "RelativeToolTip": "EC.Infrastructure\\Messaging\\Requests\\EventsRequests\\GetEventRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T20:07:13.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "DeleteEventRequest.cs",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Infrastructure\\Messaging\\Requests\\EventsRequests\\DeleteEventRequest.cs",
+              "RelativeDocumentMoniker": "EC.Infrastructure\\Messaging\\Requests\\EventsRequests\\DeleteEventRequest.cs",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Infrastructure\\Messaging\\Requests\\EventsRequests\\DeleteEventRequest.cs",
+              "RelativeToolTip": "EC.Infrastructure\\Messaging\\Requests\\EventsRequests\\DeleteEventRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T20:07:16.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "ServiceRequestBase.cs",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Infrastructure\\Messaging\\ServiceRequestBase.cs",
+              "RelativeDocumentMoniker": "EC.Infrastructure\\Messaging\\ServiceRequestBase.cs",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Infrastructure\\Messaging\\ServiceRequestBase.cs",
+              "RelativeToolTip": "EC.Infrastructure\\Messaging\\ServiceRequestBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T19:33:34.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "CreateEventResponse.cs",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Infrastructure\\Messaging\\Responses\\EventsResponses\\CreateEventResponse.cs",
+              "RelativeDocumentMoniker": "EC.Infrastructure\\Messaging\\Responses\\EventsResponses\\CreateEventResponse.cs",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Infrastructure\\Messaging\\Responses\\EventsResponses\\CreateEventResponse.cs",
+              "RelativeToolTip": "EC.Infrastructure\\Messaging\\Responses\\EventsResponses\\CreateEventResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T20:28:14.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "DeleteEventResponse.cs",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Infrastructure\\Messaging\\Responses\\EventsResponses\\DeleteEventResponse.cs",
+              "RelativeDocumentMoniker": "EC.Infrastructure\\Messaging\\Responses\\EventsResponses\\DeleteEventResponse.cs",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Infrastructure\\Messaging\\Responses\\EventsResponses\\DeleteEventResponse.cs",
+              "RelativeToolTip": "EC.Infrastructure\\Messaging\\Responses\\EventsResponses\\DeleteEventResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T20:28:57.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "GetEventResponse.cs",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Infrastructure\\Messaging\\Responses\\EventsResponses\\GetEventResponse.cs",
+              "RelativeDocumentMoniker": "EC.Infrastructure\\Messaging\\Responses\\EventsResponses\\GetEventResponse.cs",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Infrastructure\\Messaging\\Responses\\EventsResponses\\GetEventResponse.cs",
+              "RelativeToolTip": "EC.Infrastructure\\Messaging\\Responses\\EventsResponses\\GetEventResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T20:28:47.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "DeleteUserResponse.cs",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Infrastructure\\Messaging\\Responses\\UsersResponses\\DeleteUserResponse.cs",
+              "RelativeDocumentMoniker": "EC.Infrastructure\\Messaging\\Responses\\UsersResponses\\DeleteUserResponse.cs",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Infrastructure\\Messaging\\Responses\\UsersResponses\\DeleteUserResponse.cs",
+              "RelativeToolTip": "EC.Infrastructure\\Messaging\\Responses\\UsersResponses\\DeleteUserResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T20:30:40.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "DeleteUserRequest.cs",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Infrastructure\\Messaging\\Requests\\UserssRequests\\DeleteUserRequest.cs",
+              "RelativeDocumentMoniker": "EC.Infrastructure\\Messaging\\Requests\\UserssRequests\\DeleteUserRequest.cs",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Infrastructure\\Messaging\\Requests\\UserssRequests\\DeleteUserRequest.cs",
+              "RelativeToolTip": "EC.Infrastructure\\Messaging\\Requests\\UserssRequests\\DeleteUserRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T19:56:37.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "DeleteTicketRequest.cs",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Infrastructure\\Messaging\\Requests\\TicketsRequests\\DeleteTicketRequest.cs",
+              "RelativeDocumentMoniker": "EC.Infrastructure\\Messaging\\Requests\\TicketsRequests\\DeleteTicketRequest.cs",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Infrastructure\\Messaging\\Requests\\TicketsRequests\\DeleteTicketRequest.cs",
+              "RelativeToolTip": "EC.Infrastructure\\Messaging\\Requests\\TicketsRequests\\DeleteTicketRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T20:02:56.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "GetTicketResponse.cs",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Infrastructure\\Messaging\\Responses\\TicketsResponses\\GetTicketResponse.cs",
+              "RelativeDocumentMoniker": "EC.Infrastructure\\Messaging\\Responses\\TicketsResponses\\GetTicketResponse.cs",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Infrastructure\\Messaging\\Responses\\TicketsResponses\\GetTicketResponse.cs",
+              "RelativeToolTip": "EC.Infrastructure\\Messaging\\Responses\\TicketsResponses\\GetTicketResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T20:29:45.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
+              "Title": "CreateTicketResponse.cs",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Infrastructure\\Messaging\\Responses\\TicketsResponses\\CreateTicketResponse.cs",
+              "RelativeDocumentMoniker": "EC.Infrastructure\\Messaging\\Responses\\TicketsResponses\\CreateTicketResponse.cs",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Infrastructure\\Messaging\\Responses\\TicketsResponses\\CreateTicketResponse.cs",
+              "RelativeToolTip": "EC.Infrastructure\\Messaging\\Responses\\TicketsResponses\\CreateTicketResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T20:29:34.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 109,
+              "Title": "DeleteTicketResponse.cs",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Infrastructure\\Messaging\\Responses\\TicketsResponses\\DeleteTicketResponse.cs",
+              "RelativeDocumentMoniker": "EC.Infrastructure\\Messaging\\Responses\\TicketsResponses\\DeleteTicketResponse.cs",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Infrastructure\\Messaging\\Responses\\TicketsResponses\\DeleteTicketResponse.cs",
+              "RelativeToolTip": "EC.Infrastructure\\Messaging\\Responses\\TicketsResponses\\DeleteTicketResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T20:30:00.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 110,
+              "Title": "IntegerServiceRequestBase.cs",
+              "DocumentMoniker": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Infrastructure\\Messaging\\IntegerServiceRequestBase.cs",
+              "RelativeDocumentMoniker": "EC.Infrastructure\\Messaging\\IntegerServiceRequestBase.cs",
+              "ToolTip": "D:\\_University\\II \u043A\u0443\u0440\u0441\\DA\\EventCenterRepo\\DistributedApplications-SE\\EventCenter\\EC.Infrastructure\\Messaging\\IntegerServiceRequestBase.cs",
+              "RelativeToolTip": "EC.Infrastructure\\Messaging\\IntegerServiceRequestBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T20:00:02.611Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
